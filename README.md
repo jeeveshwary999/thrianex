@@ -1,0 +1,2 @@
+# thrianex
+python-DataScience
